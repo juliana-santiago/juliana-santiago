@@ -46,7 +46,7 @@
  ##
  
 <div>
- <img align="left" width="300px"  alt="Juliana-MTFBWY" src="https://media1.giphy.com/media/iJVFuKZtYrwCpxLtgc/200w.webp?cid=ecf05e4768c9ukxqr2ffahxd3bathf4lxk8xptvgbfln95ic&rid=200w.webp&ct=ts">
- <img align="center" width="300px"  alt="Juliana-Dev" src="https://media4.giphy.com/media/H83F4AfL798AmtKXIL/200w.webp?cid=ecf05e4770ih3inylrlqi6o4gi72ynormuu4aqu55duqj4mb&rid=200w.webp&ct=s">
- <img align="right"  width="300px" alt="Juliana-ISZSW" src="https://media0.giphy.com/media/sscEMFW2ZqZfU0e3FZ/200w.webp?cid=ecf05e47nycdx4gpcohmfmhzrhlv2n9zit59e71nnrkohvma&rid=200w.webp&ct=s">
+ <img align="left" width="250px" alt="Juliana-MTFBWY" src="https://media1.giphy.com/media/iJVFuKZtYrwCpxLtgc/200w.webp?cid=ecf05e4768c9ukxqr2ffahxd3bathf4lxk8xptvgbfln95ic&rid=200w.webp&ct=ts">
+ <img align="center" width="250px" alt="Juliana-Dev" src="https://media4.giphy.com/media/H83F4AfL798AmtKXIL/200w.webp?cid=ecf05e4770ih3inylrlqi6o4gi72ynormuu4aqu55duqj4mb&rid=200w.webp&ct=s">
+ <img align="right" width="250px" alt="Juliana-ISZSW" src="https://media0.giphy.com/media/sscEMFW2ZqZfU0e3FZ/200w.webp?cid=ecf05e47nycdx4gpcohmfmhzrhlv2n9zit59e71nnrkohvma&rid=200w.webp&ct=s">
 </div>
