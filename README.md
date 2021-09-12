@@ -1,6 +1,6 @@
-# Juliana Santiago &nbsp;<img src="https://media1.giphy.com/media/dWlLf9EAC8u5Nd0ku4/200w.webp?cid=ecf05e4741xub2on9079fs5k34mobwng4aj5witnlbxszl5i&rid=200w.webp&ct=sf" width="30px">
+# Juliana Santiago &nbsp;<img src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/bb8.gif" width="30px">
 
-<img src="https://media0.giphy.com/media/dcKiuR9bOOYLn5vylP/200.webp?cid=ecf05e47nycdx4gpcohmfmhzrhlv2n9zit59e71nnrkohvma&rid=200.webp&ct=s" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/rey.gif" min-width="200px" max-width="200px" width="200px" align="right">
 <p align="left">
 
 <p>
@@ -9,11 +9,11 @@
  
 <div> 
 <p>
- - <img width="20px" src="https://cdn-icons-png.flaticon.com/512/2590/2590279.png" /> I'm Juliana Santiago and I work as a Software Engineering Analyst, as a full stack developer.<br>
- - <img width="20px" src="https://cdn-icons-png.flaticon.com/512/969/969874.png" />  Main technologies: C# .Net and Angular.<br>
- - <img width="20px" src="https://cdn-icons-png.flaticon.com/512/972/972302.png" /> I am currently learning .NET, Angular, AWS Services and Software Architecture.<br>
- - <img width="20px" src="https://cdn-icons-png.flaticon.com/512/2590/2590345.png" /> Ask me about: Tech, Films, Animes and League of Legends.<br> 
- - <img width="20px" src="https://cdn-icons-png.flaticon.com/512/2590/2590375.png" /> Gamer and Star Wars lover.<br>
+ - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/ship-sw.png" /> I'm Juliana Santiago and I work as a Software Engineering Analyst, as a full stack developer.<br>
+ - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/love.png" />  Main technologies: C# .Net and Angular.<br>
+ - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/study.png" /> I am currently learning .NET, Angular, AWS Services and Software Architecture.<br>
+ - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/lightsaber-sw.png" /> Ask me about: Tech, Films, Animes and League of Legends.<br> 
+ - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/death-star-sw.png" /> Gamer and Star Wars lover.<br>
 </p>
 </div>
 
@@ -46,7 +46,7 @@
  ##
  
 <div>
- <img align="left" width="250px" alt="Juliana-MTFBWY" src="https://media1.giphy.com/media/iJVFuKZtYrwCpxLtgc/200w.webp?cid=ecf05e4768c9ukxqr2ffahxd3bathf4lxk8xptvgbfln95ic&rid=200w.webp&ct=ts">
- <img align="center" width="250px" alt="Juliana-Dev" src="https://media4.giphy.com/media/H83F4AfL798AmtKXIL/200w.webp?cid=ecf05e4770ih3inylrlqi6o4gi72ynormuu4aqu55duqj4mb&rid=200w.webp&ct=s">
- <img align="right" width="250px" alt="Juliana-ISZSW" src="https://media0.giphy.com/media/sscEMFW2ZqZfU0e3FZ/200w.webp?cid=ecf05e47nycdx4gpcohmfmhzrhlv2n9zit59e71nnrkohvma&rid=200w.webp&ct=s">
+ <img align="left" width="250px" alt="Juliana-MTFBWY" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/maytheforce.gif">
+ <img align="center" width="250px" alt="Juliana-Dev" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/dev.gif">
+ <img align="right" width="250px" alt="Juliana-ISZSW" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/starwars.gif">
 </div>
