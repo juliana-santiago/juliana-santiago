@@ -12,7 +12,7 @@
  - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/ship-sw.png" /> I'm Juliana Santiago and I work as a Software Engineering Analyst, as a full stack developer.<br>
  - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/love.png" />  Main technologies: C# .Net and Angular.<br>
  - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/study.png" /> I am currently learning .NET, Angular, AWS Services and Software Architecture.<br>
- - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/lightsaber-sw.png" /> Ask me about: Tech, Films or Games.<br> 
+ - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/lightsaber-sw.png" /> Ask me about: Tech, Films, Series or Games.<br> 
  - <img width="20px" src="https://github.com/juliana-santiago/juliana-santiago/blob/main/image/death-star-sw.png" /> Gamer and Star Wars lover.<br>
 </p>
 </div>
